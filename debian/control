@@ -18,8 +18,8 @@ Build-Depends: debhelper (>= 9),
                libelementary-dev (>= 1.8.5) 
 Standards-Version: 3.9.5
 Homepage: http://enlightenment.org/p.php?p=about/terminology
-#Vcs-Git: git://anonscm.debian.org/collab-maint/terminology.git
-#Vcs-Browser: http://anonscm.debian.org/?p=collab-maint/terminology.git;a=summary
+Vcs-Git: http://github.com/bofh80/debian-terminology
+Vcs-Browser: http://github.com/bofh80/debian-terminology
 
 Package: terminology
 Architecture: any
