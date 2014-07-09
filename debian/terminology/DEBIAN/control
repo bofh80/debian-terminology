@@ -1,0 +1,41 @@
+Package: terminology
+Version: 0.6.0-1
+Architecture: amd64
+Maintainer: Anthony F McInerney <afm404@gmail.com>
+Installed-Size: 425
+Depends: libc6-amd64 (>= 2.14), libecore-con1 (>= 1.7.7), libecore-evas1 (>= 1.7.7), libecore-file1 (>= 1.7.7), libecore-imf1 (>= 1.7.7), libecore-input1 (>= 1.7.7), libecore-ipc1 (>= 1.7.7), libecore1 (>= 1.8.0), libedje1 (>= 1.7.4), libeet1 (>= 1.2.3), libefreet-bin, libefreet1a (>= 1.7.7), libeina1 (>= 1.8.0), libeio1 (>= 1.7.4), libelementary2 (>= 1.8.4), libemotion1 (>= 1.8.5), libethumb-client-bin, libethumb-client1 (>= 1.8.5), libevas1 (>= 1.8.0), terminology-data (= 0.6.0-1)
+Provides: x-terminal-emulator
+Section: x11
+Priority: optional
+Homepage: http://enlightenment.org/p.php?p=about/terminology
+Description: Enlightenment efl based terminal emulator
+ It emulates a slightly extended vt100 with some extensions and bling
+  Most escapes supported by xterm, rxvt etc. work
+  Xterm 256 color escapes work
+  Backgrounds (bitmap, scalable/vector, animated gif, videos)
+  Transparency
+  Bitmap and scalable fonts supported
+  Themes for the layout and design
+  URL, file path and email address detection and link-handling
+  Inline display of link content
+  Multiple copy and paste selections and buffer support
+  Works in X11
+  Works in Wayland
+  Works directly in the Linux framebuffer (fbcon)
+  Can be finger/touch controlled
+  Scan scale by UI scaling factors
+  Can render using OpenGL or OpenGL-ES2 (not a requirement - just an option)
+  Can display inlined media content (images, video, documents)
+  Can do multiple tabs
+  Can do splitting into multiple panes
+  Block text selection
+  Drag and drop of text selections and links
+  Can stream media from URLs
+  Tab switcher has live thumbnail content
+  Single process, multiple windows/terminals support
+  Fast (gives urxvt a run for its money)
+  Themable visual bell
+  Compress backscroll
+  Text reflow on resize
+  Color palette selection
+  More...

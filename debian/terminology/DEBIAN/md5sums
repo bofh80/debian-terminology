@@ -1,0 +1,15 @@
+17ef1b01e2b678d1f3730077223b62c4  usr/bin/terminology
+8127de9cce9d941a7ebaf8015f5a865b  usr/bin/tyalpha
+8ddf98c0f084d0d2db5d5b83514656c7  usr/bin/tybg
+9427e6806f2085e15ac6ee303c2da565  usr/bin/tycat
+8f47471c7a9db9ab4a376e4819c4d3ad  usr/bin/tyls
+fd96935f841170b834e0e1fe4c8bc3f2  usr/bin/typop
+ccd0d5b5a9a1361694d33825a0a3ab22  usr/bin/tyq
+7ad4007ad9e18d5c62c12415f4135b79  usr/share/applications/terminology.desktop
+28b6358276f0006949685d727f52621f  usr/share/doc/terminology/NEWS.gz
+727a99d7ff4cbacfabfe0dcf87f85fb6  usr/share/doc/terminology/README.gz
+3a35981bf6e65097fe5eb6f86126e19c  usr/share/doc/terminology/TODO
+d32b85441a98dd283761da1766aadfdd  usr/share/doc/terminology/changelog.Debian.gz
+1a435cc206bd3271e8fd46d189c53330  usr/share/doc/terminology/changelog.gz
+c1f22cf12f4d1ecf9da48d5d8fd435be  usr/share/doc/terminology/copyright
+8e7d248ea308c0b5171b5003919d7502  usr/share/lintian/overrides/terminology
