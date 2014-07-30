@@ -1,15 +1,21 @@
+terminology (0.6.1-2) unstable; urgency=medium
+
+  * Removed useless README.source
+  * Updated package description in control file
+  * Added Suggest: libelementary-bin to control file for elementary_config
+  * Updated README.debian for elementary_config renderer setting
+  * Fixed watch file URL and regex, tested with uscan --report-status
+  * Fixed copyright file
+  * Removed improper IMF exports from rules file, put a note in README.debian
+
+ -- Anthony F McInerney <afm404@gmail.com>  Wed, 30 Jul 2014 22:32:40 +0100
+
 terminology (0.6.1-1) unstable; urgency=medium
 
-  * New upstream release
   * Reduced power consumption
   * Add .tga images to recognized files
   * Fix issues with the teamwork module and popups.
   * Fix depends on libevas1-engines-x
-
- -- Anthony F McInerney <afm404@gmail.com>  Mon, 14 Jul 2014 13:30:53 +0100
-
-terminology (0.6.0-1) unstable; urgency=low
-
   * Initial release (Closes: #718031)
 
- -- Anthony F McInerney <afm404@gmail.com>  Mon, 07 Jul 2014 00:25:12 +0100
+ -- Anthony F McInerney <afm404@gmail.com>  Mon, 14 Jul 2014 13:30:53 +0100

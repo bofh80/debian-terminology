@@ -1,2 +1,2 @@
 version=3
-http://download.enlightenment.org/releases/terminology-([\d\.]+)\.tar\.gz
+http://download.enlightenment.org/rel/apps/terminology/terminology-([\d\.]+)\.(?:zip|tgz|tbz|txz|(?:tar\.(?:gz|bz2|xz)))
